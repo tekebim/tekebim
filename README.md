@@ -1,6 +1,6 @@
 # Hi, I'm Michael Rabet, a passionate Web Developer from France.
 
-#### Actually Working at the agency 148 - France (Paris) as Full stack web developper
+#### Actually Working as research engineer (full stack web developper) at the Grenoble Computer Science Laboratory for the project LabNBook
 
 [![Linkedin: michael-rabet](https://img.shields.io/badge/-michaelrabet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michael-rabet/)](https://www.linkedin.com/in/michael-rabet/)
 [![GitHub tekebim](https://img.shields.io/github/followers/tekebim?label=follow&style=social)](https://github.com/tekebim)
